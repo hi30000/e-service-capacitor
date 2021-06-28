@@ -1,5 +1,5 @@
 {
-  "name": "iamport-capacitor",
+  "name": "e-service-capacitor",
   "version": "0.11.0",
   "description": "Capacitor plugin for Iamport",
   "main": "dist/esm/index.js",
